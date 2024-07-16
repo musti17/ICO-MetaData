@@ -1,0 +1,153 @@
+[
+    {
+      "name": "Crypto Dev #1",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/0000FF/808080?text=Crypto+Dev+1",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #2",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Crypto+Dev+2",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Alien"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #3",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/00FF00/000000?text=Crypto+Dev+3",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Human"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #4",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/FFFF00/000000?text=Crypto+Dev+4",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #5",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/800080/FFFFFF?text=Crypto+Dev+5",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #6",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/FFC0CB/000000?text=Crypto+Dev+6",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Vampire"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #7",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/FFA500/000000?text=Crypto+Dev+7",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Ghost"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #8",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/A52A2A/FFFFFF?text=Crypto+Dev+8",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Wizard"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #9",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/000000/FFFFFF?text=Crypto+Dev+9",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Knight"
+        }
+      ]
+    },
+    {
+      "name": "Crypto Dev #10",
+      "description": "Crypto Dev is an exclusive NFT collection",
+      "image": "https://via.placeholder.com/150/FFFFFF/000000?text=Crypto+Dev+10",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "White"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Samurai"
+        }
+      ]
+    }
+  ]
+  
